@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 👋
 
 <!--
 **tjanis99/tjanis99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
