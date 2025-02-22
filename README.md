@@ -4,7 +4,7 @@
 
 - Currently exploring new projects to build real-world experience while refining my coding abilities.
 
-- 📬 Let's Connect! Open to collaborations, projects, and discussions.\
+- 📬 Let's Connect! Open to collaborations, projects, and discussions.
     - Reach me: trevorjanis99@gmail.com
 
 <!--
