@@ -1,10 +1,11 @@
 ## Welcome, I'm Trevor 👋
 
-I'm finishing my degree in May 2025 and sharpening my skills in Java, C++, SQL, and mobile development. 
+- I'm finishing my degree in May 2025 and sharpening my skills in Java, C++, SQL, and mobile development. 
 
-Currently exploring new projects to build real-world experience while refining my coding abilities.
+- Currently exploring new projects to build real-world experience while refining my coding abilities.
 
-📬 Let's Connect! Open to collaborations, projects, and discussions.
+- 📬 Let's Connect! Open to collaborations, projects, and discussions.\
+    - Reach me: trevorjanis99@gmail.com
 
 <!--
 **tjanis99/tjanis99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
