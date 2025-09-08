@@ -1,6 +1,6 @@
 ## Welcome, I'm Trevor 👋
 
-- I'm finishing my degree in May 2025 and sharpening my skills in Java, C++, SQL, and mobile development. 
+- Graduated from Northern Illinois University in May 2025 and sharpening my skills in Java, C++, SQL, and mobile development. 
 
 - Currently exploring new projects to build real-world experience while refining my coding abilities.
 
